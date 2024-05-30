@@ -11,3 +11,7 @@ file.
 > Pandoc **doesn't** have an official logo. John MacFarlane has never
 > approved any logo. The logo here is used for a number of
 > pandoc-related projects that benefit from having a logo.
+
+![pandoc logo][svg]
+
+[svg]: https://raw.githubusercontent.com/tarleb/pandoc-logo/main/pandoc.svg
