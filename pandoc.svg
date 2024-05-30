@@ -8,15 +8,19 @@
   <g fill="none"
      stroke="#4093da"
      stroke-width="5"
-     stroke-linejoin="round"
-     transform="skewX(-10) translate(8 1)">
+     transform="skewX(-9) translate(8 1)">
+    <!-- the "legs" -->
     <path
         d="M 30,10
            l 0,80
            M 45,10
-           l 0,80
-           M 18,10
-           l 42,0
+           l 0,80" />
+    <!-- the document -->
+    <path
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M 20,10
+           l 40,0
            l 18,18
            l -18,0
            l 0,-18
