@@ -11,9 +11,9 @@ the number of input formats and *m* the number of output formats).
 
 > [!NOTE]
 >
-> Pandoc **doesn't** have an official logo. John MacFarlane has never
-> approved any logo. The logo here is used for a number of
-> pandoc-related projects that benefit from having a logo.
+> Pandoc **doesn't** have an official logo, and an official pandoc logo
+> would have to be chosen by John MacFarlane. The logo here is used for
+> a number of pandoc-related projects that benefit from having a logo.
 
 ![pandoc logo][svg]
 
