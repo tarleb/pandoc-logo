@@ -22,11 +22,17 @@
         d="M 20,10
            l 40,0
            l 18,18
-           l -18,0
-           l 0,-18
-           m 18,18
            l 0,25
            l -33,0" />
+    <path
+        fill="#4093da"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+        d="M 61,10
+           l 17,17
+           l -17,0
+           l 0,-17" />
   </g>
 </svg>
 
